@@ -1,0 +1,7 @@
+C:\Projects\tiyatro_1809\tiyatro_1809\bin\Debug\tiyatro_1809.exe.config
+C:\Projects\tiyatro_1809\tiyatro_1809\bin\Debug\tiyatro_1809.exe
+C:\Projects\tiyatro_1809\tiyatro_1809\bin\Debug\tiyatro_1809.pdb
+C:\Projects\tiyatro_1809\tiyatro_1809\obj\Debug\tiyatro_1809.csprojAssemblyReference.cache
+C:\Projects\tiyatro_1809\tiyatro_1809\obj\Debug\tiyatro_1809.csproj.CoreCompileInputs.cache
+C:\Projects\tiyatro_1809\tiyatro_1809\obj\Debug\tiyatro_1809.exe
+C:\Projects\tiyatro_1809\tiyatro_1809\obj\Debug\tiyatro_1809.pdb

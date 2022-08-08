@@ -1,0 +1,7 @@
+C:\Projects\kalitim\kalitim\bin\Debug\kalitim.exe.config
+C:\Projects\kalitim\kalitim\bin\Debug\kalitim.exe
+C:\Projects\kalitim\kalitim\bin\Debug\kalitim.pdb
+C:\Projects\kalitim\kalitim\obj\Debug\kalitim.csprojAssemblyReference.cache
+C:\Projects\kalitim\kalitim\obj\Debug\kalitim.csproj.CoreCompileInputs.cache
+C:\Projects\kalitim\kalitim\obj\Debug\kalitim.exe
+C:\Projects\kalitim\kalitim\obj\Debug\kalitim.pdb

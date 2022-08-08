@@ -1,0 +1,7 @@
+C:\Projects\isci_sorusu\isci_sorusu\bin\Debug\isci_sorusu.exe.config
+C:\Projects\isci_sorusu\isci_sorusu\bin\Debug\isci_sorusu.exe
+C:\Projects\isci_sorusu\isci_sorusu\bin\Debug\isci_sorusu.pdb
+C:\Projects\isci_sorusu\isci_sorusu\obj\Debug\isci_sorusu.csprojAssemblyReference.cache
+C:\Projects\isci_sorusu\isci_sorusu\obj\Debug\isci_sorusu.csproj.CoreCompileInputs.cache
+C:\Projects\isci_sorusu\isci_sorusu\obj\Debug\isci_sorusu.exe
+C:\Projects\isci_sorusu\isci_sorusu\obj\Debug\isci_sorusu.pdb

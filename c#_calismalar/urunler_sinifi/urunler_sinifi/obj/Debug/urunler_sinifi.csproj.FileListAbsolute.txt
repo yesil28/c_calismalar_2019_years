@@ -1,0 +1,7 @@
+C:\Projects\urunler_sinifi\urunler_sinifi\bin\Debug\urunler_sinifi.exe.config
+C:\Projects\urunler_sinifi\urunler_sinifi\bin\Debug\urunler_sinifi.exe
+C:\Projects\urunler_sinifi\urunler_sinifi\bin\Debug\urunler_sinifi.pdb
+C:\Projects\urunler_sinifi\urunler_sinifi\obj\Debug\urunler_sinifi.csprojAssemblyReference.cache
+C:\Projects\urunler_sinifi\urunler_sinifi\obj\Debug\urunler_sinifi.csproj.CoreCompileInputs.cache
+C:\Projects\urunler_sinifi\urunler_sinifi\obj\Debug\urunler_sinifi.exe
+C:\Projects\urunler_sinifi\urunler_sinifi\obj\Debug\urunler_sinifi.pdb

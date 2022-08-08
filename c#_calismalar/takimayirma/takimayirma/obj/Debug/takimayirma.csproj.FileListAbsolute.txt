@@ -1,0 +1,10 @@
+C:\Projects\takimayirma\takimayirma\bin\Debug\takimayirma.exe.config
+C:\Projects\takimayirma\takimayirma\bin\Debug\takimayirma.exe
+C:\Projects\takimayirma\takimayirma\bin\Debug\takimayirma.pdb
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.csprojAssemblyReference.cache
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.Form1.resources
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.Properties.Resources.resources
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.csproj.GenerateResource.cache
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.csproj.CoreCompileInputs.cache
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.exe
+C:\Projects\takimayirma\takimayirma\obj\Debug\takimayirma.pdb

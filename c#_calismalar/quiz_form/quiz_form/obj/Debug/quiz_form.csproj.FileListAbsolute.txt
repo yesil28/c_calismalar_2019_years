@@ -1,0 +1,10 @@
+C:\Projects\quiz_form\quiz_form\bin\Debug\quiz_form.exe.config
+C:\Projects\quiz_form\quiz_form\bin\Debug\quiz_form.exe
+C:\Projects\quiz_form\quiz_form\bin\Debug\quiz_form.pdb
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.csprojAssemblyReference.cache
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.Form1.resources
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.Properties.Resources.resources
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.csproj.GenerateResource.cache
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.csproj.CoreCompileInputs.cache
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.exe
+C:\Projects\quiz_form\quiz_form\obj\Debug\quiz_form.pdb

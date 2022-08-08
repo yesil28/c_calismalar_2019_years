@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\bin\Debug\ogrenci_not_sistemi.exe.config
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\bin\Debug\ogrenci_not_sistemi.exe
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\bin\Debug\ogrenci_not_sistemi.pdb
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.mainform.resources
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.exe
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.pdb
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.addstudent_form.resources
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ogrenci_not_sistemi\ogrenci_not_sistemi\obj\Debug\ogrenci_not_sistemi.querystudent_form.resources

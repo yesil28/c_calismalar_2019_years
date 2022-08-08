@@ -1,0 +1,7 @@
+C:\Projects\polimorfizm\polimorfizm\bin\Debug\polimorfizm.exe.config
+C:\Projects\polimorfizm\polimorfizm\bin\Debug\polimorfizm.exe
+C:\Projects\polimorfizm\polimorfizm\bin\Debug\polimorfizm.pdb
+C:\Projects\polimorfizm\polimorfizm\obj\Debug\polimorfizm.csprojAssemblyReference.cache
+C:\Projects\polimorfizm\polimorfizm\obj\Debug\polimorfizm.csproj.CoreCompileInputs.cache
+C:\Projects\polimorfizm\polimorfizm\obj\Debug\polimorfizm.exe
+C:\Projects\polimorfizm\polimorfizm\obj\Debug\polimorfizm.pdb
